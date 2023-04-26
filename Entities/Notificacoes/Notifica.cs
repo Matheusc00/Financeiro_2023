@@ -39,7 +39,8 @@ namespace Entities.Notificacoes
             return true;
         }
 
-        public bool ValidarPropriedadeInt(int valor, string nomePropriedade)
+        public bool ValidarPropriedadeInt(int valor
+            , string nomePropriedade)
         {
             if(valor < 1 || string.IsNullOrWhiteSpace(nomePropriedade))
             {
