@@ -32,7 +32,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\LARA&&MATHEUS\\Documents\\GitHub\\Financeiro_2023\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\LARA&&MATHEUS\\Documents\\GitHub\\Financeiro_2023\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
